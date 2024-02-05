@@ -1,0 +1,179 @@
+body{
+    background-color: rgb(0, 0, 0);
+    background-image: url(http://wonderfulengineering.com/wp-content/uploads/2016/01/black-wallpaper-3.jpg);
+    background-repeat: no-repeat;
+    background-position: 0vh 50%;
+    overflow-x: hidden;
+
+}
+
+#qw1{
+    height:13vh;
+    width: 100vw;
+    background-color:black;
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 9;
+    box-shadow: 70px 70px 70px white;
+}
+
+#zxc{
+    height: 80vh;
+    
+    background-image: url(https://images.unsplash.com/photo-1600585152220-90363fe7e115?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+    background-size: 220vh 110%;
+    background-repeat: no-repeat;
+    animation-name: raju;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+@keyframes raju {
+     40%{ 
+        background-image: url(https://images.unsplash.com/photo-1559554704-0f74b35a8718?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2l0Y2hlbiUyMGRlc2lnbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60);
+        background-repeat: no-repeat;
+        background-size:200vh 100% ;
+    }
+  
+}
+
+
+#ytr{
+    background-image: url(https://media.istockphoto.com/id/1276636787/photo/orange-color-gemstone-sapphire.jpg?s=612x612&w=0&k=20&c=f1rBj9uuZS6oF_WuDEveVCGiypIflkEIMtlc9hRp73Q=);
+    background-repeat: no-repeat;
+    background-size: 120vh 100%;
+    
+}
+
+#ttr{
+    background-image: url(https://media.istockphoto.com/id/1485035212/photo/sleek-and-modern-dark-black-kitchen-exudes-industrial-edge-and-sophisticated-style.jpg?s=612x612&w=0&k=20&c=qjGErvTmXmgDbev4fsv9sixhgMQHI7aPF8wxMk1HRyk=);
+    background-repeat: no-repeat;
+    background-size: 90vh 100% ;
+    margin-left: 123.5vh;
+    margin-top: -68vh;
+    box-shadow: 20px 10px 20px cornflowerblue;
+}
+
+#a11{
+    height: 80vh;
+    width: 100vw;
+    background-image:linear-gradient(rgb(9, 8, 8) 0% 40%,white 50% 70%,grey 80%);
+    margin-top: 3vh;
+}
+
+#a12{
+    height: 40vh;
+    width: 50vw;
+    background-color: aqua;
+    background-image: url(https://images.unsplash.com/photo-1556911220-bff31c812dba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8a2l0Y2hlbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60);
+    background-size: 110vh 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 10vh;
+    left: 10vw;
+    cursor: pointer;
+}
+
+#a12:hover{
+    opacity: 0.5;
+}
+#a14{
+    height: 40vh;
+    width: 22vw;
+    background-color: black;
+    background-image: url(https://images.unsplash.com/photo-1558888401-3cc1de77652d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHR2JTIwdW5pdHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60);
+    background-size: 40vh 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    top: -43vh;
+    left: 63vw;
+    cursor: pointer;
+}
+#a14:hover{
+    opacity: 0.5;
+}
+
+#a16{
+    height: 40vh;
+    width: 40vw;
+    background-color: aqua;
+    background-image: url(https://images.unsplash.com/photo-1611048268330-53de574cae3b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8d2FyZHJvYmVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60);
+    background-size: 87vh 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    top: -54vh;
+    left: 10vw;
+    cursor: pointer;
+    
+}
+#a16:hover{
+    opacity: 0.5;
+}
+
+#a18{
+    height: 40vh;
+    width: 34vw;
+    background-color: aqua;
+    background-image: url(https://media.istockphoto.com/id/1429770428/photo/spacious-and-bright-bathroom.jpg?s=612x612&w=0&k=20&c=EFAweHpaU0LIVdomiqhkIAmVKDPfJECvxGvqqCR-BOw=);
+    background-size: 74vh 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    top: -107.5vh;
+    left: 51vw;
+    cursor: pointer;
+}
+#a18:hover{
+    opacity: 0.5;
+}
+
+#w12{
+height: 110vh;
+width: 100vw;
+    background-image: url(https://media.istockphoto.com/id/1461624459/photo/japandi-modern-scandinavian-style-apartment-kitchen-interior-design-decoration-with-green.jpg?s=612x612&w=0&k=20&c=bHGxzfsUxAh-y2pIP5AWqUu9I7mha7KB6PaWH4EMI60=);
+    filter: blur();
+    background-repeat: no-repeat;
+    margin-top: 35vh;
+    margin-left: 15vw;
+    background-size: 145vh 70%;
+    cursor: pointer;
+    border-top-right-radius: 30%;    
+    box-shadow: 20px 20px 20px cadetblue;
+}
+
+#z11::first-letter{
+    color: yellow;
+}
+
+#sha{
+    height: 110vh;
+    width: 100vw;
+    background-image: url(https://media.istockphoto.com/id/1159347682/photo/large-wardrobe-interior-design.jpg?s=612x612&w=0&k=20&c=lLYhm-vO6jfAwyXW4pz9A6UgL5IoVoWhCoV1ogmcnPQ=);
+    background-repeat: no-repeat;
+    background-size: 110vh 60%;
+    cursor: pointer;    
+    position: relative;
+    top:-110vh;
+    left: 15vw;
+    box-shadow: 20px 20px 20px blue;
+}
+
+#z13::first-letter{
+    color: yellow;
+}
+
+
+#sqw{
+    height: 110vh;
+    width: 100vw;
+    background-image: url(https://media.istockphoto.com/id/1207735597/photo/3d-rendering-spacious-living-room-design-of-modern-residence-with-sofa-tea-table-decorative.jpg?s=612x612&w=0&k=20&c=zaknbduG5EGSUPehC8OvGAOURbFYHMUsEIcYyZcjLDE=);
+    background-repeat: no-repeat;
+    background-size: 130vh 60%;
+    cursor: pointer;    
+    position: relative;
+    top:-210vh;
+    left: 15vw;
+    border-radius: 10%;
+    
+}

@@ -1,0 +1,292 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+    background-color: #F6F4EB;
+}
+.menu{
+    width: 100vw;
+    height:12vh;
+    /* background-color: black; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:#F8F0E5;
+    box-shadow:-30px 10px 20px  #f3f3f2;
+    
+}
+marquee{
+    color: red;
+}
+
+.navbar{
+    width: 10vw;
+    height: 12vh;
+}
+img{
+    height: 10vh;
+    margin-top: 1vh;
+}
+.list{
+    width: 35vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* color: white; */
+    list-style-type: none;
+}
+.hover{
+    transition-property: all;
+}
+.hover:hover{
+ background-size: cover;
+    background-color: black;
+    color: white;
+}
+.search{
+    width: 35vw;
+    
+}
+.search input{
+    width: 35vw;
+    height: 5vh;
+}
+.icon{
+    width: 20vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5vh;
+
+}
+.fa-magnifying-glass{
+    height:8vh;
+    width: 2vw;
+    /* color: white; */
+
+}
+.fa-user{
+    height:8vh;
+    width: 2vw;
+    /* color: white; */
+   
+}
+.fa-heart{
+    height:8vh;
+    width: 2vw;
+    /* color: white; */
+}
+.fa-bag-shopping{
+    height:8vh;
+    width: 2vw;
+    /* color: white; */
+}
+marquee h1{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    word-spacing: 20px;
+}
+.offer{
+    width: 100vw;
+    height: 50vh;
+}
+#offerimg{
+    width: 100vw;
+    height: 50vh;
+}
+.scroll h1{
+    font-size: 40px;
+    font-weight: lighter;
+    margin-left: 4vw;
+    margin-top: 6vh;
+}
+.bar{
+    width: 100vw;
+    height: 30vh;
+    overflow-x:auto ;
+    overflow-y: hidden;
+    
+}
+.bar img{
+    width: 12vw;
+    height: 30vh;   
+}
+.raksha{
+    width: 100vw;
+    height:50vh ;
+    display: flex;
+}
+h1{
+    font-size: 40px;
+    font-weight: lighter;
+    margin-left: 4vw;
+    margin-top: 6vh;
+}
+#rakshas{
+    width: 25vw;
+    height: 30vh;
+}
+.imgraksha{
+    width: 25vw;
+    height: 30vh;
+   
+}
+#offerrate{
+    font-size: 30px;
+    line-height: 5px;
+    font-weight: bolder;
+    margin-left: 2vw;
+    margin-top: 30vh;
+    margin-left: -23vw;
+}
+.imgraksha1{
+    width: 25vw;
+    height: 30vh;
+    margin-left: 10vw;
+}
+#offerrate1{
+     font-size: 30px;
+     line-height: 5px;
+     font-weight: bolder;
+  
+     margin-top: 30vh;
+     margin-left: -12vw;
+ }
+.imgraksha2{
+    width: 25vw;
+    height: 30vh;
+    margin-left: 9.2vw;
+}
+#offerrate2{
+    font-size: 30px;
+    line-height: 5px;
+    font-weight: bolder;
+  
+    margin-top: 30vh;
+    margin-left: -14vw;
+}
+.imgraksha3{
+    width: 25vw;
+    height: 30vh;
+    margin-left: 10vw;
+}
+#offerrate3{
+    font-size: 30px;
+    line-height: 5px;
+    font-weight: bolder;
+    margin-left: 2vw;
+    margin-top: 30vh;
+    margin-left: -13vw;
+}
+.global-brands{
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+  
+}
+#globalbrand{
+    width: 25vw;
+    height: 30vh;
+    display: flex;
+
+}
+.brand{
+    width: 25vw;
+    height: 30vh;
+   
+}
+.brandoffer{
+    margin-left :-20vw;;
+    margin-top: 30vh;
+}
+
+.brand1{
+    width: 25vw;
+    height: 30vh;
+    margin-left: 14vw;
+}
+.brandoffer1{
+    margin-left :-8vw;;
+    margin-top: 30vh;
+}
+
+.brand2{
+    width: 25vw;
+    height: 30vh;
+    margin-left: 5vw;
+}
+.brandoffer2{
+    margin-left :-12vw;;
+    margin-top: 30vh;
+}
+.brand3{
+    width: 25vw;
+    height: 30vh;
+    margin-left: 6vw;
+}
+.brandoffer3{
+    margin-left :-12vw;;
+    margin-top: 30vh;
+}
+.brand4{
+    width: 25vw;
+    height: 30vh;
+    margin-left: 6vw;
+}
+.brandoffer4{
+    margin-left :-12vw;;
+    margin-top: 30vh;
+}
+h3{
+    font-size: 25px;
+    margin-left: 4vw;
+    font-weight: lighter;
+}
+#shopbycategory{
+    width: 100vw;
+    height: 150vh;
+}
+.category{
+    width: 100vw;
+    height: 40vh;
+}
+.cat{
+    width: 100vw;
+    height: 30vh;
+}
+
+.footer{
+    background-color: #F6F4EB;
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+}
+h5{
+position:relative;
+top: 3vh;
+left: 3vw;
+}
+.footerli{
+    margin-left: 3vw;
+    font-size: 15px;
+    list-style-type: none;
+    line-height: 18px;
+    font-weight: lighter;
+}
+.customer{
+ margin-left:20vw;
+
+}.custli{
+    list-style-type: none;
+    margin-left: 3vw;
+}
+.socialmedia{
+ 
+    border: 2px solid red;
+    border-radius: 50%;
+    width: 2vw;
+    height: 2vh;
+    background-size:cover;
+}
+.socialicon{
+    margin-left: 30vw;
+}
